@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Stephen Adebisi</h1>
 
 <p align="center">
-🎓 Graduate Student in Geography <br>
+🎓 Graduate Student in Geospatial Science <br>
 🌍 GIS • Remote Sensing • Machine Learning <br>
 🛰️ Earth Observation & Environmental Intelligence
 </p>
