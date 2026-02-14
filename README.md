@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Stephen Adebisi</h1>
 
-<!--
-**stephen-adebisi/stephen-adebisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Graduate Student in Geography <br>
+🌍 GIS • Remote Sensing • Machine Learning <br>
+🛰️ Earth Observation & Environmental Intelligence
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I specialize in applying **machine learning and AI techniques** to geospatial and remote sensing data.  
+My work focuses on extracting meaningful environmental insights from satellite imagery, particularly Sentinel-2 multispectral data.
+
+---
+
+## 🔬 Research Interests
+- 🧠 Geospatial Machine Learning  
+- 🛰️ Land Cover Classification  
+- 🌿 Spectral Indices & Vegetation Analysis  
+- 📊 Spatial Modeling & Environmental Analytics  
+- 🤖 AI for Earth Observation  
+
+---
+
+## 🛠️ Technical Stack
+
+### 👨‍💻 Programming
+`Python` • `NumPy` • `scikit-learn` • `rasterio` • `matplotlib`
+
+### 🛰️ Remote Sensing
+`Sentinel-2` • `Landsat` • `NDVI` • `SAVI` • Multispectral Analysis
+
+### 🤖 Machine Learning
+`Random Forest` • `K-Means` • `SVM` • Model Evaluation • Feature Engineering
+
+### 🗺️ GIS
+`QGIS` • `ArcGIS`
+
+---
+
+## 📂 Featured Projects
+- 🛰️ **Unsupervised Classification of Sentinel-2 Imagery (Brookings, SD)**
+- 🌍 **Machine Learning–Based Land Cover Mapping**
+- 🌱 **NDVI Time-Series Analysis**
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [Add your link]
+- 📧 Email: [Add if you want]
+
+---
+
+<p align="center">
+✨ Building intelligent systems for understanding our planet.
+</p>
