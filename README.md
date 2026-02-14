@@ -9,8 +9,11 @@
 ---
 
 ## 🚀 About Me
-I specialize in applying **machine learning and AI techniques** to geospatial and remote sensing data.  
-My work focuses on extracting meaningful environmental insights from satellite imagery, particularly Sentinel-2 multispectral data.
+
+I specialize in developing and applying advanced machine learning and AI methodologies to multi-source geospatial data. My work integrates satellite imagery, UAS (drone) data, and 3D point cloud datasets to model and analyze complex environmental systems.
+
+I work across multiple data modalities including RGB imagery, multispectral (MSI), hyperspectral (HSI), and LiDAR-derived point clouds. My research focuses on feature extraction, spectral–spatial modeling, and supervised and unsupervised learning approaches for environmental monitoring, land cover classification, and spatial prediction.
+
 
 ---
 
