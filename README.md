@@ -32,13 +32,13 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 `Python` • `NumPy` • `scikit-learn` • `rasterio` • `matplotlib`
 
 ### 🛰️ Remote Sensing
-`Sentinel-2` • `Landsat` • `NDVI` • `SAVI` • Multispectral Analysis
+`Sentinel-2` • `Landsat` • `NDVI` • `SAVI` • `Multispectral Analysis`
 
 ### 🤖 Machine Learning
-`Random Forest` • `K-Means` • `SVM` • Model Evaluation • Feature Engineering
+`Random Forest` • `K-Means` • `SVM` • `Tensorflow` • `PyTorch`• `Model Evaluation` • `Feature Engineering`
 
 ### 🗺️ GIS
-`QGIS` • `ArcGIS`
+`QGIS` • `ArcGIS` • `ENVI` • `Pix4D`
 
 ---
 
