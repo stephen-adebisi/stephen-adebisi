@@ -50,8 +50,8 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Add your link]
-- 📧 Email: [Add if you want]
+- 💼 LinkedIn: www.linkedin.com/in/stephen-adebisi-580404262
+- 📧 Email: Stephen.Adebisi@jacks.sdstate.edu
 
 ---
 
