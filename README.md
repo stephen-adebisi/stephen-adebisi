@@ -29,13 +29,13 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 ## 🛠️ Technical Stack
 
 ### 👨‍💻 Programming
-`Python` • `NumPy` • `scikit-learn` • `rasterio` • `matplotlib`
+`Python` • `R` • `SQL` • `scikit-learn` • `rasterio` • 
 
 ### 🛰️ Remote Sensing
 `Sentinel-2` • `Landsat` • `NDVI` • `SAVI` • `Multispectral Analysis`
 
 ### 🤖 Machine Learning
-`Random Forest` • `K-Means` • `SVM` • `Tensorflow` • `PyTorch`• `Model Evaluation` • `Feature Engineering`
+`Random Forest` • `SVM` • `Tensorflow` • `PyTorch`• `Model Evaluation` • `Feature Engineering`
 
 ### 🗺️ GIS
 `QGIS` • `ArcGIS` • `ENVI` • `Pix4D`
