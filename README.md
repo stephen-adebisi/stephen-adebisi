@@ -29,21 +29,21 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 ## 🛠️ Technical Stack
 
 ### 👨‍💻 Programming
-`Python` • `R` • `SQL` • `scikit-learn` • `rasterio` • 
+`Python` • `R` • `SQL` • 
 
 ### 🛰️ Remote Sensing
-`Sentinel-2` • `Landsat` • `NDVI` • `SAVI` • `Multispectral Analysis`
+`Sentinel-2` • `Landsat` • `MODIS` • `GEE` • `Multispectral Analysis`
 
 ### 🤖 Machine Learning
-`Random Forest` • `SVM` • `Tensorflow` • `PyTorch`• `Model Evaluation` • `Feature Engineering`
+`Random Forest` • `Support Vector Machine` • `Logistic Regression` • `Neural Networks`• `Gradient Boosting` `Model Evaluation` • `Feature Engineering`
 
 ### 🗺️ GIS
-`QGIS` • `ArcGIS` • `ENVI` • `Pix4D`
+`QGIS` • `ArcGIS(Pro & Online)` • `ENVI` • `Pix4D` • `Agisoft Metashape`
 
 ---
 
 ## 📂 Featured Projects
-- 🛰️ **Unsupervised Classification of Sentinel-2 Imagery (Brookings, SD)**
+- 🛰️ **Unsupervised Classification of Sentinel-2 Imagery**
 - 🌍 **Machine Learning–Based Land Cover Mapping**
 - 🌱 **NDVI Time-Series Analysis**
 
