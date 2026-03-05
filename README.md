@@ -35,7 +35,7 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 `Sentinel-2` • `Landsat` • `MODIS` • `GEE` • `Multispectral Analysis`
 
 ### 🤖 Machine Learning
-`Random Forest` • `Support Vector Machine` • `Logistic Regression` • `Neural Networks`• `Gradient Boosting` `Model Evaluation` • `Feature Engineering`
+`Random Forest` • `Support Vector Machine` • `Logistic Regression` • `Neural Networks` • `Gradient Boosting` • `Model Evaluation` • `Feature Engineering`
 
 ### 🗺️ GIS
 `QGIS` • `ArcGIS(Pro & Online)` • `ENVI` • `Pix4D` • `Agisoft Metashape`
