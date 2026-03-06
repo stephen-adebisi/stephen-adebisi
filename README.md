@@ -32,7 +32,7 @@ I work across multiple data modalities including RGB imagery, multispectral (MSI
 `Python` • `R` • `SQL` • 
 
 ### 🛰️ Remote Sensing
-`Sentinel-2` • `Landsat` • `MODIS` • `GEE` • `Multispectral Analysis`
+`Sentinel-2` • `Landsat` • `MODIS` • `GEE` • `Multispectral Analysis` • `Data Fusion`
 
 ### 🤖 Machine Learning
 `Random Forest` • `Support Vector Machine` • `Logistic Regression` • `Neural Networks` • `Gradient Boosting` • `Model Evaluation` • `Feature Engineering`
